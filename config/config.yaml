@@ -1,0 +1,6 @@
+root_dir: "artifacts"
+artifacts_root: "artifacts"
+data_ingestion:
+  dataset_url: "https://github.com/Tusar7684/Chicken-facal-images/blob/main/Chicken-fecal-images.zip"
+  raw_data_dir: "artifacts/data_ingestion"
+  zip_file_name: "Chicken-fecal-images.zip"
